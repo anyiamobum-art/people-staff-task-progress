@@ -11,40 +11,40 @@
   "overall": null,
   "scopedProgress": [],
   "milestone": "Monitor paused · saved snapshot",
-  "remaining": "Final build ratings, release checks, deployment, served content and legitimate role acceptance are not verified in this saved snapshot. Their current state has not been checked for this presentation.",
+  "remaining": "Final build ratings, release checks, deployment, visible live content and real staff, manager and owner workflows are not verified in this saved snapshot. Their current state has not been checked for this presentation.",
   "checkpoints": [],
   "completed": [],
   "links": [],
   "journey": [
     {
       "stage": "Build",
-      "state": "Scoped evidence",
-      "evidence": "Owner implementation evidence was recorded; the final whole build remains unverified here."
+      "state": "Partial evidence",
+      "evidence": "The owner recorded implementation work; the final whole build remains unverified here."
     },
     {
       "stage": "Tests",
-      "state": "Scoped evidence",
-      "evidence": "Affected checks were recorded. They do not establish a full final release pass."
+      "state": "Partial evidence",
+      "evidence": "Checks for the changes examined were recorded. They do not establish a full final release pass."
     },
     {
       "stage": "Review",
       "state": "Not verified",
-      "evidence": "Component acceptance does not establish final whole-build ratings."
+      "evidence": "Reviews of individual parts do not establish ratings for the final whole build."
     },
     {
       "stage": "Merge",
       "state": "Not verified",
-      "evidence": "No current protected merge result is established by this snapshot."
+      "evidence": "This snapshot does not confirm that the final change reached the main code after required checks."
     },
     {
       "stage": "Deployment",
       "state": "Not verified",
-      "evidence": "Product deployment is separate from publication of this task page."
+      "evidence": "Putting this task page online does not prove the product is online."
     },
     {
       "stage": "Live acceptance",
       "state": "Not verified",
-      "evidence": "Served content and legitimate role workflows still require their own evidence."
+      "evidence": "The live version and real staff, manager and owner workflows still need their own evidence."
     }
   ],
   "work": [
@@ -55,19 +55,19 @@
       "Continue only when the recorded pause condition changes or a scoped assignment is authorized."
     ],
     [
-      "Scoped owner evidence",
+      "Saved owner evidence",
       "Recorded",
-      "The saved record contains implementation, affected-check and component-review receipts. These belong to the revisions and scopes examined.",
-      "Reuse applicable evidence; bind any final assessment to the final revision."
+      "The saved record contains build work, checks and reviews of individual parts. Each applies only to the version and work examined.",
+      "Reuse relevant evidence; assess the exact final version."
     ],
     [
       "Final release verification",
       "Not verified",
-      "This record does not establish final ratings, protected release, served content or legitimate role acceptance.",
+      "This record does not establish final ratings, an approved release, the live version or checks with real staff, manager and owner accounts.",
       "The original owners retain the remaining release and acceptance work."
     ]
   ],
   "warnings": [],
   "source": "Sanitized projection of the original monitor checkpoint.",
-  "rawReport": "People & Staff release verification\n\nMonitor: paused.\nProduct evidence last verified: 5 October 2026.\nPublic snapshot prepared: 11 October 2026.\nOverall completion: unknown; no finite verified whole-goal checklist.\n\nScoped owner evidence was recorded. Final whole-build review, merge, deployment and live acceptance are not verified by this snapshot. Current product state has not been refreshed. Private evidence is retained by the original owners."
+  "rawReport": "People & Staff release verification\n\nMonitor: paused.\nProduct evidence last verified: 5 October 2026.\nPublic snapshot prepared: 11 October 2026.\nOverall completion: unknown; no finite verified whole-goal checklist.\n\nSome owner evidence was recorded. Final whole-build review, merge, deployment and live acceptance are not verified by this snapshot. Current product state has not been refreshed. Private evidence is retained by the original owners."
 }
